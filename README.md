@@ -1,5 +1,7 @@
 # Hello Everyone!
- 
+
+<img src="https://raw.githubusercontent.com/vinda-in-git-code/vinda-in-git-code/main/Banner about Vin.jpg" alt="Banner about Vinda Karunia Surya">
+
 It's Nice to meet you all! My name is **Vinda Karunia Surya**.<br>
  
 I am a **Information System Student** in **Universitas Tarumananagara**(https://untar.ac.id/)<br>
