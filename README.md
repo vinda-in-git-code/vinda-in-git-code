@@ -14,9 +14,10 @@ If you are interested, You can see my linked in at (www.linkedin.com/in/vinda-ka
 If you are interested at my work on Android Programming, You can see it at (www.github.com/vinda-in-app).
 
 ### GitHub Stats =
+### Github Statistic
 <p align="left">
-<a href="https://github.com/dimasmds">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?vinda-in-git-code=dimasmds&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?vinda-in-git-code=dimasmds&layout=compact&langs_count=8&theme=midnight-purple"/>
+<a href="https://github.com/vinda-in-git-code">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=vinda-in-git-code&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=vinda-in-git-code&layout=compact&langs_count=8&theme=midnight-purple"/>
 </a>
-</p>>
+</p>
