@@ -17,7 +17,7 @@ If you are interested at my work on Android Programming, You can see it at (www.
 ### Github Statistic
 <p align="left">
 <a href="https://github.com/vinda-in-git-code">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=vinda-in-git-code&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=vinda-in-git-code&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=vinda-in-git-code&layout=compact&langs_count=8&theme=midnight-purple"/>
 </a>
 </p>
